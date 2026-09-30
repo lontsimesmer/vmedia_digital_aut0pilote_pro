@@ -97,13 +97,10 @@ export const Route = createRootRouteWithContext<{ queryClient: QueryClient }>()(
       { name: "twitter:card", content: "summary_large_image" },
     ],
     links: [
-      // Favicon: your actual logo, with its transparent padding cropped out
-      // and embedded in an SVG so the mark fills the frame and renders crisp
-      // and clearly visible in browser tabs at any size.
       {
         rel: "icon",
-        type: "image/svg+xml",
-        href: "/favicon.svg",
+        type: "image/x-icon",
+        href: "/favicon.ico",
       },
       {
         rel: "preconnect",
