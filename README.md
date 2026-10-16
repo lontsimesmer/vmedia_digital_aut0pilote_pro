@@ -1,7 +1,7 @@
-# VMedia Digital — Sites web & tunnels clés en main
+# VMedia Digital, Sites web & tunnels clés en main
 
 Single-page French lead-capture funnel for **VMedia Digital**, an agency that
-builds websites, sales funnels and landing pages for businesses. The page has
+builds websites, sales funnels, and landing pages for businesses. The page has
 one goal: get visitors to fill in the contact form.
 
 ## What's inside
@@ -64,5 +64,5 @@ public/
 
 ## Deploy
 
-This project targets an Edge runtime (e.g. Cloudflare Workers). Run
+This project targets an Edge runtime (e.g., Cloudflare Workers). Run
 `npm run build` and deploy the resulting output per your host's instructions.
