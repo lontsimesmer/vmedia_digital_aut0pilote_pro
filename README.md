@@ -7,7 +7,7 @@ one goal: get visitors to fill in the contact form.
 ## What's inside
 
 - **Hero-only layout** with an embedded lead form (no extra sections, no menus)
-- **Brand design system** — Ice background, Action Blue accents, Unbounded /
+- **Brand design system**: Ice background, Action Blue accents, Unbounded /
   DM Sans / Michroma type pairing (loaded via Google Fonts)
 - **Interactive bubbles** that follow the cursor and **draggable doodles**
   around the page edges
@@ -18,7 +18,7 @@ one goal: get visitors to fill in the contact form.
   workflow
 - **Floating WhatsApp CTA** linking to `wa.me/+22577832317`
 - **Thank-you state** rendered in the same card after a successful submit
-- Fully **responsive** — desktop full-screen hero + a tailored mobile layout
+- Fully **responsive**, desktop full-screen hero + a tailored mobile layout
 
 ## Tech stack
 
